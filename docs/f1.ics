@@ -1,0 +1,1535 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rashruf//f1-calendar//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formule 1
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f1-2026-01-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260306T013000Z
+DTEND:20260306T023000Z
+SUMMARY:🏎️ F1 VT1 – Australian GP
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Ronde 1 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Australian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-01-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260306T050000Z
+DTEND:20260306T060000Z
+SUMMARY:🏎️ F1 VT2 – Australian GP
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Ronde 1 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Australian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-01-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260307T013000Z
+DTEND:20260307T023000Z
+SUMMARY:🏎️ F1 VT3 – Australian GP
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Ronde 1 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Australian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-01-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+SUMMARY:⏱️ F1 Kwalificatie – Australian GP
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Ronde 1 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Australian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Australian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-01-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:🏁 F1 Race – Australian GP
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Ronde 1 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Australian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Australian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-02-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260313T033000Z
+DTEND:20260313T043000Z
+SUMMARY:🏎️ F1 VT1 – Chinese GP
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Ronde 2 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Chinese_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-02-sprintqualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260313T073000Z
+DTEND:20260313T081500Z
+SUMMARY:⏱️ F1 Sprintkwalificatie – Chinese GP
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Ronde 2 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Chinese_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-02-sprint@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:⚡ F1 Sprint – Chinese GP
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Ronde 2 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Chinese_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚡ F1 Sprint – Chinese GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-02-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:⏱️ F1 Kwalificatie – Chinese GP
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Ronde 2 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Chinese_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Chinese GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-02-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:🏁 F1 Race – Chinese GP
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Ronde 2 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Chinese_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Chinese GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-03-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260327T023000Z
+DTEND:20260327T033000Z
+SUMMARY:🏎️ F1 VT1 – Japanese GP
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Ronde 3 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Japanese_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-03-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260327T060000Z
+DTEND:20260327T070000Z
+SUMMARY:🏎️ F1 VT2 – Japanese GP
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Ronde 3 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Japanese_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-03-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260328T023000Z
+DTEND:20260328T033000Z
+SUMMARY:🏎️ F1 VT3 – Japanese GP
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Ronde 3 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Japanese_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-03-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+SUMMARY:⏱️ F1 Kwalificatie – Japanese GP
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Ronde 3 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Japanese_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Japanese GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-03-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:🏁 F1 Race – Japanese GP
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Ronde 3 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Japanese_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Japanese GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-04-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260501T160000Z
+DTEND:20260501T170000Z
+SUMMARY:🏎️ F1 VT1 – Miami GP
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Ronde 4 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Miami_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-04-sprintqualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260501T203000Z
+DTEND:20260501T211500Z
+SUMMARY:⏱️ F1 Sprintkwalificatie – Miami GP
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Ronde 4 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Miami_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-04-sprint@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:⚡ F1 Sprint – Miami GP
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Ronde 4 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Miami_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚡ F1 Sprint – Miami GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-04-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:⏱️ F1 Kwalificatie – Miami GP
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Ronde 4 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Miami_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Miami GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-04-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:🏁 F1 Race – Miami GP
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Ronde 4 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Miami_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Miami GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-05-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260522T163000Z
+DTEND:20260522T173000Z
+SUMMARY:🏎️ F1 VT1 – Canadian GP
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Ronde 5 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Canadian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-05-sprintqualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260522T203000Z
+DTEND:20260522T211500Z
+SUMMARY:⏱️ F1 Sprintkwalificatie – Canadian GP
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Ronde 5 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Canadian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-05-sprint@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:⚡ F1 Sprint – Canadian GP
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Ronde 5 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Canadian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚡ F1 Sprint – Canadian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-05-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+SUMMARY:⏱️ F1 Kwalificatie – Canadian GP
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Ronde 5 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Canadian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Canadian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-05-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:🏁 F1 Race – Canadian GP
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Ronde 5 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Canadian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Canadian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-06-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260605T113000Z
+DTEND:20260605T123000Z
+SUMMARY:🏎️ F1 VT1 – Monaco GP
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Ronde 6 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Monaco_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-06-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+SUMMARY:🏎️ F1 VT2 – Monaco GP
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Ronde 6 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Monaco_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-06-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260606T103000Z
+DTEND:20260606T113000Z
+SUMMARY:🏎️ F1 VT3 – Monaco GP
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Ronde 6 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Monaco_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-06-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Monaco GP
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Ronde 6 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Monaco_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Monaco GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-06-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:🏁 F1 Race – Monaco GP
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Ronde 6 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Monaco_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Monaco GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-07-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260612T113000Z
+DTEND:20260612T123000Z
+SUMMARY:🏎️ F1 VT1 – Barcelona GP
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Ronde 7 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Barcelona-Catalunya
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-07-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+SUMMARY:🏎️ F1 VT2 – Barcelona GP
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Ronde 7 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Barcelona-Catalunya
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-07-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+SUMMARY:🏎️ F1 VT3 – Barcelona GP
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Ronde 7 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Barcelona-Catalunya
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-07-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Barcelona GP
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Ronde 7 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Barcelona-Catalunya
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Barcelona GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-07-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:🏁 F1 Race – Barcelona GP
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Ronde 7 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Barcelona-Catalunya
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Barcelona GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-08-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260626T113000Z
+DTEND:20260626T123000Z
+SUMMARY:🏎️ F1 VT1 – Austrian GP
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Ronde 8 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Austrian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-08-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260626T150000Z
+DTEND:20260626T160000Z
+SUMMARY:🏎️ F1 VT2 – Austrian GP
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Ronde 8 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Austrian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-08-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260627T103000Z
+DTEND:20260627T113000Z
+SUMMARY:🏎️ F1 VT3 – Austrian GP
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Ronde 8 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Austrian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-08-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Austrian GP
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Ronde 8 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Austrian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Austrian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-08-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:🏁 F1 Race – Austrian GP
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Ronde 8 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_Austrian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Austrian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-09-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260703T113000Z
+DTEND:20260703T123000Z
+SUMMARY:🏎️ F1 VT1 – British GP
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Ronde 9 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_British_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-09-sprintqualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260703T153000Z
+DTEND:20260703T161500Z
+SUMMARY:⏱️ F1 Sprintkwalificatie – British GP
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Ronde 9 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_British_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-09-sprint@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:⚡ F1 Sprint – British GP
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Ronde 9 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_British_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚡ F1 Sprint – British GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-09-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+SUMMARY:⏱️ F1 Kwalificatie – British GP
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Ronde 9 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_British_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – British GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-09-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:🏁 F1 Race – British GP
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Ronde 9 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki/
+ 2026_British_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – British GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260717T113000Z
+DTEND:20260717T123000Z
+SUMMARY:🏎️ F1 VT1 – Belgian GP
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Ronde 10 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Belgian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260717T150000Z
+DTEND:20260717T160000Z
+SUMMARY:🏎️ F1 VT2 – Belgian GP
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Ronde 10 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Belgian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260718T103000Z
+DTEND:20260718T113000Z
+SUMMARY:🏎️ F1 VT3 – Belgian GP
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Ronde 10 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Belgian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Belgian GP
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Ronde 10 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Belgian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Belgian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:🏁 F1 Race – Belgian GP
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Ronde 10 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Belgian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Belgian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260724T113000Z
+DTEND:20260724T123000Z
+SUMMARY:🏎️ F1 VT1 – Hungarian GP
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Ronde 11 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Hungarian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260724T150000Z
+DTEND:20260724T160000Z
+SUMMARY:🏎️ F1 VT2 – Hungarian GP
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Ronde 11 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Hungarian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260725T103000Z
+DTEND:20260725T113000Z
+SUMMARY:🏎️ F1 VT3 – Hungarian GP
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Ronde 11 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Hungarian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260725T140000Z
+DTEND:20260725T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Hungarian GP
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Ronde 11 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Hungarian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Hungarian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:🏁 F1 Race – Hungarian GP
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Ronde 11 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Hungarian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Hungarian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+SUMMARY:🏎️ F1 VT1 – Dutch GP
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Ronde 12 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Dutch_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-sprintqualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260821T143000Z
+DTEND:20260821T151500Z
+SUMMARY:⏱️ F1 Sprintkwalificatie – Dutch GP
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Ronde 12 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Dutch_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-sprint@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:⚡ F1 Sprint – Dutch GP
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Ronde 12 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Dutch_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚡ F1 Sprint – Dutch GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Dutch GP
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Ronde 12 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Dutch_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Dutch GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:🏁 F1 Race – Dutch GP
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Ronde 12 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Dutch_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Dutch GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+SUMMARY:🏎️ F1 VT1 – Italian GP
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Ronde 13 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Italian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+SUMMARY:🏎️ F1 VT2 – Italian GP
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Ronde 13 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Italian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+SUMMARY:🏎️ F1 VT3 – Italian GP
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Ronde 13 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Italian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Italian GP
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Ronde 13 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Italian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Italian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:🏁 F1 Race – Italian GP
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Ronde 13 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Italian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Italian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+SUMMARY:🏎️ F1 VT1 – Spanish GP
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Ronde 14 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Spanish_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+SUMMARY:🏎️ F1 VT2 – Spanish GP
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Ronde 14 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Spanish_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+SUMMARY:🏎️ F1 VT3 – Spanish GP
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Ronde 14 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Spanish_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Spanish GP
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Ronde 14 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Spanish_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Spanish GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:🏁 F1 Race – Spanish GP
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Ronde 14 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Spanish_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Spanish GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+SUMMARY:🏎️ F1 VT1 – Azerbaijan GP
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Ronde 15 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Azerbaijan_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+SUMMARY:🏎️ F1 VT2 – Azerbaijan GP
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Ronde 15 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Azerbaijan_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+SUMMARY:🏎️ F1 VT3 – Azerbaijan GP
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Ronde 15 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Azerbaijan_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:⏱️ F1 Kwalificatie – Azerbaijan GP
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Ronde 15 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Azerbaijan_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Azerbaijan GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:🏁 F1 Race – Azerbaijan GP
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Ronde 15 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Azerbaijan_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Azerbaijan GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261002T043000Z
+DTEND:20261002T053000Z
+SUMMARY:🏎️ F1 VT1 – Bahrain GP in Malaysia
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Ronde 16 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Bahrain_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261002T080000Z
+DTEND:20261002T090000Z
+SUMMARY:🏎️ F1 VT2 – Bahrain GP in Malaysia
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Ronde 16 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Bahrain_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261003T043000Z
+DTEND:20261003T053000Z
+SUMMARY:🏎️ F1 VT3 – Bahrain GP in Malaysia
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Ronde 16 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Bahrain_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261003T080000Z
+DTEND:20261003T090000Z
+SUMMARY:⏱️ F1 Kwalificatie – Bahrain GP in Malaysia
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Ronde 16 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Bahrain_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Bahrain GP in Malaysia
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261004T070000Z
+DTEND:20261004T090000Z
+SUMMARY:🏁 F1 Race – Bahrain GP in Malaysia
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Ronde 16 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Bahrain_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Bahrain GP in Malaysia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:🏎️ F1 VT1 – Singapore GP
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Ronde 17 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Singapore_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-sprintqualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131500Z
+SUMMARY:⏱️ F1 Sprintkwalificatie – Singapore GP
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Ronde 17 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Singapore_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-sprint@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:⚡ F1 Sprint – Singapore GP
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Ronde 17 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Singapore_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚡ F1 Sprint – Singapore GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:⏱️ F1 Kwalificatie – Singapore GP
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Ronde 17 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Singapore_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Singapore GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:🏁 F1 Race – Singapore GP
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Ronde 17 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Singapore_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Singapore GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:🏎️ F1 VT1 – United States GP
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Ronde 18 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_United_States_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:🏎️ F1 VT2 – United States GP
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Ronde 18 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_United_States_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:🏎️ F1 VT3 – United States GP
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Ronde 18 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_United_States_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:⏱️ F1 Kwalificatie – United States GP
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Ronde 18 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_United_States_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – United States GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:🏁 F1 Race – United States GP
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Ronde 18 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_United_States_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – United States GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:🏎️ F1 VT1 – Mexico City GP
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Ronde 19 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Mexico_City_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:🏎️ F1 VT2 – Mexico City GP
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Ronde 19 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Mexico_City_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:🏎️ F1 VT3 – Mexico City GP
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Ronde 19 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Mexico_City_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:⏱️ F1 Kwalificatie – Mexico City GP
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Ronde 19 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Mexico_City_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Mexico City GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:🏁 F1 Race – Mexico City GP
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Ronde 19 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Mexico_City_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Mexico City GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:🏎️ F1 VT1 – Brazilian GP
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Ronde 20 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Brazilian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:🏎️ F1 VT2 – Brazilian GP
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Ronde 20 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Brazilian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:🏎️ F1 VT3 – Brazilian GP
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Ronde 20 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Brazilian_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:⏱️ F1 Kwalificatie – Brazilian GP
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Ronde 20 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Brazilian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Brazilian GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:🏁 F1 Race – Brazilian GP
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Ronde 20 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Brazilian_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Brazilian GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:🏎️ F1 VT1 – Las Vegas GP
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Ronde 21 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Las_Vegas_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:🏎️ F1 VT2 – Las Vegas GP
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Ronde 21 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Las_Vegas_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:🏎️ F1 VT3 – Las Vegas GP
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Ronde 21 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Las_Vegas_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:⏱️ F1 Kwalificatie – Las Vegas GP
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Ronde 21 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Las_Vegas_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Las Vegas GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:🏁 F1 Race – Las Vegas GP
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Ronde 21 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Las_Vegas_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Las Vegas GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:🏎️ F1 VT1 – Qatar GP
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Ronde 22 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Qatar_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:🏎️ F1 VT2 – Qatar GP
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Ronde 22 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Qatar_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:🏎️ F1 VT3 – Qatar GP
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Ronde 22 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Qatar_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:⏱️ F1 Kwalificatie – Qatar GP
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Ronde 22 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Qatar_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Qatar GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:🏁 F1 Race – Qatar GP
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Ronde 22 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Qatar_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Qatar GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-firstpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:🏎️ F1 VT1 – Abu Dhabi GP
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Ronde 23 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Abu_Dhabi_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-secondpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:🏎️ F1 VT2 – Abu Dhabi GP
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Ronde 23 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Abu_Dhabi_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-thirdpractice@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:🏎️ F1 VT3 – Abu Dhabi GP
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Ronde 23 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Abu_Dhabi_Grand_Prix
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-qualifying@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:⏱️ F1 Kwalificatie – Abu Dhabi GP
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Ronde 23 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Abu_Dhabi_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ F1 Kwalificatie – Abu Dhabi GP
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-race@rashruf.github.io
+DTSTAMP:20261120T173703Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:🏁 F1 Race – Abu Dhabi GP
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Ronde 23 van het 2026 F1-seizoen\nhttps://en.wikipedia.org/wiki
+ /2026_Abu_Dhabi_Grand_Prix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 F1 Race – Abu Dhabi GP
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
