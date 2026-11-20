@@ -1,0 +1,39 @@
+name: Update F1 calendar
+
+on:
+  schedule:
+    - cron: "43 */6 * * *"   # elke 6 uur
+  push:
+    branches: [main]
+    paths: ["build.py", ".github/workflows/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Agenda bouwen
+        run: python build.py
+      - name: Committen als het schema echt veranderd is
+        run: |
+          if git diff --quiet -I '^DTSTAMP:' -- docs/ && [ -z "$(git ls-files --others --exclude-standard docs/)" ]; then
+            echo "Geen wijzigingen in het schema."
+            git checkout -- docs/ 2>/dev/null || true
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "F1-agenda bijgewerkt $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
